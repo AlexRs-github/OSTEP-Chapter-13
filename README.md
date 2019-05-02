@@ -1,6 +1,6 @@
-#Chapter 13
+# Chapter 13
 
-##Homework
+## Homework
 
 This program allows you to see how address translations are performed in a
 system with base and bounds registers. As before, there are two steps to
