@@ -1,5 +1,7 @@
 #Chapter 13
+
 ##Homework
+
 This program allows you to see how address translations are performed in a
 system with base and bounds registers. As before, there are two steps to
 running the program to test out your understanding of base and bounds. First,
